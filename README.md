@@ -1,2 +1,2 @@
-# Re-Zero-daily-leetcode
+# Re-Zero-daily-code
 Chuunibyou is good!
